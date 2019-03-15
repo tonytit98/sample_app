@@ -1,0 +1,5 @@
+vi:
+  hello: "Chào các bạn nhé ahihi"
+  static_pages:
+    about:
+      title: "Về chúng tôi"
