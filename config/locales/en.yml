@@ -31,3 +31,6 @@
 
 en:
   hello: "Hello world"
+  static_pages:
+    about:
+      title: "About"
