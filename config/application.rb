@@ -1,3 +1,5 @@
+
+19 lines (14 sloc) 596 Bytes
 require_relative 'boot'
 
 require 'rails/all'
